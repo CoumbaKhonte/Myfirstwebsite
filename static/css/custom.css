@@ -1,0 +1,21 @@
+/**
+ * Feuille de style personnalisée
+ ============================================ */
+ 
+.site-navigation .navbar-brand img {
+    max-width: 200px;
+}
+.btn-primary, .btn-primary:hover {
+    background: #C69A68;
+    color: #fff;
+}
+.btn-secondary, .btn-secondary:hover {
+    background: #DBC9B4;
+    color: #fff;
+}
+.site-footer {
+    background: #EAD5BD;
+    padding: 100px 0;
+}
+
+    
