@@ -112,4 +112,4 @@ summarylength = 25
       # Footer Service
       [params.footer.service]
         title       = ""
-        description = "C'est en devenant la personne la plus importante de votre vie que vous deviendrez la personne la plus importante pour les autres - MamsDk"
+        description = ""
